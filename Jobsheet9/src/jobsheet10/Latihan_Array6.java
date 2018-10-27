@@ -28,3 +28,5 @@ public class Latihan_Array6 {
         }
     }
 }
+
+// HELLO!
